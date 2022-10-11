@@ -1,0 +1,57 @@
+.jojo{
+ width: 600px;
+ height: 400px;
+ border-style: groove;
+ border-color: lightgoldenrodyellow;
+ border-width: 10px;
+ cursor: progress;
+}
+
+.page-content{
+ text-align: center;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+body{
+ background-color: rosybrown;
+}
+
+.about-me{
+ text-align: center;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ list-style-position: inside;
+}
+
+.project{
+ text-align:center;
+ margin-right: 2%;
+}
+
+.contact-me{
+ text-align: center;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.port{
+    text-align: center;
+}
+
+.hike{
+ width: 600px;
+ height: 800px;
+ border-style: groove;
+ border-color: lightgoldenrodyellow;
+ border-width: 5px;
+ cursor: crosshair;
+}
+
+.bufadora{
+ width: 450px;
+ height: 800px;
+ border-style: groove;
+ border-color: lightgoldenrodyellow;
+ border-width: 5px;
+ cursor:not-allowed;
+ 
+}
